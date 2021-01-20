@@ -1,1 +1,3 @@
-**Dogs Breeds Recognition with Tensorflow Lite**
+# DogBreedRecognitionWithTensorFlowLite
+
+**Dogs Breeds Recognition with TensorFlow Lite**
