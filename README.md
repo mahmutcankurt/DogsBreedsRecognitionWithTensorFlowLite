@@ -24,3 +24,6 @@ This application: aims to make people’s lives easier and gives people more inf
 * Pixel 2 API 28 Virtual Device
 * LG-H850TR Android 8.0.0
 * MobileNet V2
+<img src="https://github.com/mahmutcankurt/DogBreedRecognitionWithTensorflowLite/blob/master/1.png" width="225" height="400" />
+<img src="https://github.com/mahmutcankurt/DogBreedRecognitionWithTensorflowLite/blob/master/2.png" width="225" height="400" />
+<img src="https://github.com/mahmutcankurt/DogBreedRecognitionWithTensorflowLite/blob/master/3.png" width="225" height="400" />
