@@ -28,7 +28,6 @@ This application: aims to make people’s lives easier and gives people more inf
 ## LINKS
 **Here is my [TFLite](https://github.com/mahmutcankurt/DogBreedRecognitionWithTensorflowLite/blob/master/dog_breed_tf_lite.ipynb) .ipynb file!**<br>
 **Here is my [APK](https://github.com/mahmutcankurt/DogBreedRecognitionWithTensorflowLite/blob/master/TFLite-Dogs-Breeds-Recognition.apk) file!..**<br>
-**Here is my [PROJECT REPORT (TR)](https://github.com/mahmutcankurt/DogsBreedsRecognitionWithTensorFlowLite/blob/master/DOGS%20BREEDS%20CLASSIFICATION.pdf)**<br>
 **Here is [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)!..**<br>
 **Here is [TFLite Android Guide](https://www.tensorflow.org/lite/guide/android)!..**<br>
 **Here is [Android Studio Setup File](https://developer.android.com/studio)!..**<br>
@@ -45,3 +44,4 @@ _Screenshot of the Application in the Test Phase of **LG-H850TR Device**_<br>
 _Screenshot of Sub-Menu in the Test Phase of **LG-H850TR Device**_<br>
 <br><br>
 _NOTE: This Project is "Computer Engineering Project Design" Lesson Work by Mahmut Can Kurt._
+**Here is my [PROJECT REPORT (TR)](https://github.com/mahmutcankurt/DogsBreedsRecognitionWithTensorFlowLite/blob/master/DOGS%20BREEDS%20CLASSIFICATION.pdf)!..**<br>
