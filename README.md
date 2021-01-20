@@ -43,5 +43,5 @@ _Screenshot of the Application in the Test Phase of **LG-H850TR Device**_<br>
 <img src="https://github.com/mahmutcankurt/DogBreedRecognitionWithTensorflowLite/blob/master/3.png" width="225" height="400" /><br>
 _Screenshot of Sub-Menu in the Test Phase of **LG-H850TR Device**_<br>
 <br><br>
-_NOTE: This Project is "Computer Engineering Project Design" Lesson Work by Mahmut Can Kurt._
+_NOTE: This Project is "Computer Engineering Project Design" Lesson Work by Mahmut Can Kurt._<br>
 **Here is my [PROJECT REPORT (TR)](https://github.com/mahmutcankurt/DogsBreedsRecognitionWithTensorFlowLite/blob/master/DOGS%20BREEDS%20CLASSIFICATION.pdf)!..**<br>
