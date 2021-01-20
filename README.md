@@ -28,9 +28,12 @@ This application: aims to make people’s lives easier and gives people more inf
 **Here is [TFLite](https://github.com/mahmutcankurt/DogBreedRecognitionWithTensorflowLite/blob/master/dog_breed_tf_lite.ipynb) .ipynb file!**<br>
 **Here is [APK](https://github.com/mahmutcankurt/DogBreedRecognitionWithTensorflowLite/blob/master/TFLite-Dogs-Breeds-Recognition.apk) file!..**
 
-_Screenshot of the Application in the Test Phase of **Pixel 2 API 28 Virtual Device**_<br>
+### IMAGES
 <img src="https://github.com/mahmutcankurt/DogBreedRecognitionWithTensorflowLite/blob/master/1.png" width="225" height="400" /><br>
-_Screenshot of the Application in the Test Phase of **LG-H850TR Device**_<br>
+_Screenshot of the Application in the Test Phase of **Pixel 2 API 28 Virtual Device**_<br>
+
 <img src="https://github.com/mahmutcankurt/DogBreedRecognitionWithTensorflowLite/blob/master/2.png" width="225" height="400" /><br>
-_Screenshot of Sub-Menu in the Test Phase of **LG-H850TR Device**_<br>
+_Screenshot of the Application in the Test Phase of **LG-H850TR Device**_<br>
+
 <img src="https://github.com/mahmutcankurt/DogBreedRecognitionWithTensorflowLite/blob/master/3.png" width="225" height="400" /><br>
+_Screenshot of Sub-Menu in the Test Phase of **LG-H850TR Device**_<br>
